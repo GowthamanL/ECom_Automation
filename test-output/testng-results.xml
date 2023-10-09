@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35376" started-at="2023-06-16T20:46:03 IST" finished-at="2023-06-16T20:46:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35376" started-at="2023-06-16T20:46:03 IST" finished-at="2023-06-16T20:46:38 IST">
+      <class name="com.ecommerce.tests.PlaceOrderTest">
+        <test-method status="PASS" signature="loadPropertyFile()[pri:0, instance:com.ecommerce.tests.PlaceOrderTest@12d3247]" name="loadPropertyFile" is-config="true" duration-ms="40758" started-at="2023-06-16T20:45:22 IST" finished-at="2023-06-16T20:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPropertyFile -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.ecommerce.tests.PlaceOrderTest@12d3247]" name="setup" is-config="true" duration-ms="1219" started-at="2023-06-16T20:46:03 IST" finished-at="2023-06-16T20:46:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="checkOut()[pri:0, instance:com.ecommerce.tests.PlaceOrderTest@12d3247]" name="checkOut" duration-ms="33504" started-at="2023-06-16T20:46:05 IST" finished-at="2023-06-16T20:46:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.tests.PlaceOrderTest@12d3247]" name="tearDown" is-config="true" duration-ms="12351" started-at="2023-06-16T20:46:39 IST" finished-at="2023-06-16T20:46:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.tests.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
