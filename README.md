@@ -16,11 +16,11 @@ Before you get started with this project, make sure you have the following prere
 An e-commerce website to test : https://demo.nopcommerce.com/
 
 ## Usage:
-        1. Clone or download the project from github.
-        2. Open the project using Integrated Development Environment (IDE) like Eclipse, IntelliJ, etc.,
-        3. Set up the input data by alternating "config.properties" file in project directory.
-        4. Configure the webdriver to match your browser and system (e.g., ChromeDriver for Chrome).
-        5. Find the test cases  folder in project directory and run the test cases  
+   1. Clone or download the project from github.
+   2. Open the project using Integrated Development Environment (IDE) like Eclipse, IntelliJ, etc.,
+   3. Set up the input data by alternating "config.properties" file in project directory.
+   4. Configure the webdriver to match your browser and system (e.g., ChromeDriver for Chrome).
+   5. Find the test cases  folder in project directory and run the test cases  
         
 ## Test Cases:
 # Login
